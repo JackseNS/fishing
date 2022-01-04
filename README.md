@@ -4,7 +4,7 @@ Atualmente existem diversas formas de como uma pessoa pode ter sua privacidade c
  
 # How to Protect Yourself from Hackers 
  
-Currently there are several ways in which a person can have their privacy compromised by hackers, whether by invading the wireless network, malware through viruses and even using spying methods, the method covered here in this simple report will be the phishing method.
+Currently there are several ways in which a person can have their privacy compromised by hackers, whether by invading the wireless network, malware through viruses and even using spying methods, the method covered here in this simple report will be the phishing method. 
  
 # Phishing
 
