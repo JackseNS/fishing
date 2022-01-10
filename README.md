@@ -8,3 +8,4 @@ Currently there are several ways in which a person can have their privacy compro
   
 # Phishing 
 
+Phishing é o crime de enganar as pessoas para que compartilhem informações confidenciais como senhas e número de cartões de crédito. Como em uma verdadeira pescaria, há mais de uma maneira fisgar uma vítima, mas uma tática de phishing é a mais comum.
