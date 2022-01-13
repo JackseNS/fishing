@@ -19,3 +19,5 @@ Phishing is the crime of tricking people into sharing sensitive information such
 Existem diversos meios para se onde pode se fazer o método de phishing. O que sera mostrado aqui como exemplo sera a ferramenta TERMUX, é um emulador de terminal Android e aplicativo de ambiente Linux que funciona diretamente sem necessidade de root ou configuração. Um sistema básico mínimo é instalado automaticamente - pacotes adicionais estão disponíveis usando o gerenciador de pacotes APT.
 
 Ele usa entre Bash, fish ou Zsh e nano, Emacs ou Vim. Grep através de sua caixa de entrada de SMS.Usando endpoints de API com curl e use rsync para armazenar backups de sua lista de contatos em um servidor remoto.
+
+## Tools
