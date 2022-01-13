@@ -16,4 +16,4 @@ Phishing is the crime of tricking people into sharing sensitive information such
 
 ## Ferramentas 
 
-Existem diversos meios para se onde pode se fazer o método de phishing
+Existem diversos meios para se onde pode se fazer o método de phishing. O que sera mostrado aqui como exemplo sera a ferramenta TERMUX
