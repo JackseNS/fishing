@@ -21,3 +21,4 @@ Existem diversos meios para se onde pode se fazer o método de phishing. O que s
 Ele usa entre Bash, fish ou Zsh e nano, Emacs ou Vim. Grep através de sua caixa de entrada de SMS.Usando endpoints de API com curl e use rsync para armazenar backups de sua lista de contatos em um servidor remoto.
 
 ## Tools
+
