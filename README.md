@@ -22,3 +22,4 @@ Ele usa entre Bash, fish ou Zsh e nano, Emacs ou Vim. Grep através de sua caixa
 
 ## Tools
 
+There are several ways to do the phishing method. What will be shown here as an example will be the TERMUX tool, it is an Android terminal emulator and Linux environment application that works directly without root or configuration. A minimal base system is installed automatically - additional packages are available using the APT package manager.
