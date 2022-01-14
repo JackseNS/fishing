@@ -25,3 +25,7 @@ Ele usa entre Bash, fish ou Zsh e nano, Emacs ou Vim. Grep através de sua caixa
 There are several ways to do the phishing method. What will be shown here as an example will be the TERMUX tool, it is an Android terminal emulator and Linux environment application that works directly without root or configuration. A minimal base system is installed automatically - additional packages are available using the APT package manager.
 
 It uses between Bash, fish or Zsh and nano, Emacs or Vim. Grep through your SMS inbox. Using API endpoints with curl and use rsync to store backups of your contact list on a remote server.
+
+## Conclusão
+
+A primeira dica importante a ter em mente é que a maioria das empresas confiáveis não solicita informações pessoais ou detalhes de conta por e-mail. Isso inclui seu banco, seguradoras e qualquer empresa com a qual você faz negócios. Se você receber um e-mail pedindo algum tipo de informação de conta, exclua-o imediatamente e ligue para a empresa para confirmar se sua conta está OK.
