@@ -39,3 +39,4 @@ Além de ter um software de proteção contra vírus no seu computador, é funda
 The first important tip to keep in mind is that most reputable companies do not ask for personal information or account details via email. This includes your bank, insurance companies and any company you do business with. If you receive an email asking for some kind of account information, delete it immediately and call the company to confirm your account is OK.
 
 Another simple way to reduce your exposure to phishing messages is to use free virus protection and anti-spam software to guard against malicious messages that may be sent to your computer. As anti-malware tools are specifically designed to protect you against even the most complex threats, they are vital on all your computers as they are designed to complement your common sense.
+
