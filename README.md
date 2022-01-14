@@ -31,3 +31,4 @@ It uses between Bash, fish or Zsh and nano, Emacs or Vim. Grep through your SMS 
 A primeira dica importante a ter em mente é que a maioria das empresas confiáveis não solicita informações pessoais ou detalhes de conta por e-mail. Isso inclui seu banco, seguradoras e qualquer empresa com a qual você faz negócios. Se você receber um e-mail pedindo algum tipo de informação de conta, exclua-o imediatamente e ligue para a empresa para confirmar se sua conta está OK.
 
 Outra forma simples de reduzir sua exposição a mensagens de phishing é o uso de um software gratuito de proteção contra vírus e antispam para se proteger contra mensagens maliciosas que podem ser enviadas ao seu computador. Como as ferramentas antimalware são criadas especificamente para protegê-lo até mesmo contra as ameaças mais complexas, elas são vitais em todos os seus computadores, pois foram desenvolvidas para complementar o seu bom-senso.
+
