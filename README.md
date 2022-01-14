@@ -35,3 +35,6 @@ Outra forma simples de reduzir sua exposição a mensagens de phishing é o uso 
 Além de ter um software de proteção contra vírus no seu computador, é fundamental usar um gerenciador de senhas para administrar suas credenciais on-line. Você precisa ter um gerenciador de senhas porque, atualmente, é muito importante ter senhas diferentes para cada site, porque em caso de violação de dados, os invasores maliciosos irão tentar usar as credenciais descobertas em toda a Web. Um dos melhores recursos dos gerenciadores de senhas é o preenchimento automático de formulários de login para minimizar os cliques.
 
 ## Conclusion
+
+The first important tip to keep in mind is that most reputable companies do not ask for personal information or account details via email. This includes your bank, insurance companies and any company you do business with. If you receive an email asking for some kind of account information, delete it immediately and call the company to confirm your account is OK.
+
